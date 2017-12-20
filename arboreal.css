@@ -1,0 +1,334 @@
+body {
+    align-items: center;
+    font-family: "Calibri";
+    background-image: url("office3.jpg");
+    background-size: 100%;
+}
+
+.menu-container {
+    display: flex;
+    overflow: hidden;
+    background: rgba(46, 163, 138, 0.6);
+    align-items: center;
+    list-style-type: none;
+    justify-content: center;
+    border-radius: 0.5em;
+    height: 2em;
+}
+
+.menu-item {
+    padding: 0.5em;
+    margin: 0.5em;
+    text-align: center;
+    font-weight: bold;
+	text-decoration: none;
+	color: black;
+}
+
+.menu-item:hover, li.current {
+	background: rgba(255, 255, 255, 0.5);
+
+}
+
+.menu,footer {
+    margin: 0 10em;
+}
+
+.columns-container {
+    display: flex;
+    overflow: hidden;
+    margin: 0.8em 10em 0em 10em; 
+    background: rgba(0, 0, 5, 0.7);
+    flex-direction: row;
+    justify-content: center;
+    border-radius: 0.5em;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+	
+}
+
+.column-item {
+    padding: 1em;
+    margin: 1em;
+    border-radius: 0.5em;
+    flex: 0 1 auto;
+}
+
+.special {
+	background-color: rgb(46, 163, 138, 0.7);
+    align-self: auto;
+    padding: 2em;
+	margin: 5em;
+	-webkit-clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+	clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+	color: rgba(255,255,255);
+}
+
+.slogan {
+    font-size: 1.2em;
+    color: rgb(55, 149, 184);
+	margin-left: 2em;
+}
+
+h1:first-child {
+    padding-bottom: 1em;
+}
+
+h3 {
+	background-color:rgb(235, 249, 224, 0.9);
+	padding-left: 1em;
+}
+	
+header,footer,
+.slogan {
+    text-align: center;
+}
+
+img {
+	margin-top: 2em;
+    width: 75%;
+   
+}
+
+.aloha {
+	background-image: url("aloha.jpg");
+	background-size: 100%;
+	
+}
+
+.siberia {
+	background-image: url("siberia.jpg");
+	background-size: 100%;
+	
+}
+
+.nordic {
+	background-image: url("nordic.jpg");
+	background-size: 100%;
+
+}
+
+.about, .contact {
+	background-color: rgb(35, 149, 104, 0.7);
+	
+	
+}
+.details{
+	color: rgb(0, 0, 0);
+}
+
+.text {
+	padding: 1.3em;
+	background: rgba(255, 255, 255, 0.9);
+	text-align: justify;
+	text-indent: 1.3em;
+}
+
+.logo {
+	max-width: 5em;
+	max-height: 5em;
+	width: auto;
+	height: auto;
+}
+
+.logoArboreal {
+	max-width: 1em;
+	max-height: 1em;
+	width: auto;
+	height: auto;
+}
+
+footer {
+	background: rgba(46, 163, 138, 0.6);
+	border-radius: 0.5em;
+	height: 1em;
+
+}
+
+table {
+    border-collapse: collapse;
+
+}
+
+td, th {
+    border: 1px solid lightblue;
+    padding: 0.9em;
+
+}
+
+th {
+    background-color: lightblue;
+}
+
+td {
+	color: rgba(255,255,255);
+	background-color: rgba(255,255,255, 0.4);;
+}
+
+.contact {
+	color: rgba(255,255,255);
+}
+
+
+form > input, textarea, button {
+	margin: 1em 0;
+	width: 100%;
+	height: 3em;
+	border-radius: 0.5em;
+	padding: 0.5em;
+    display: inline-block;
+    border: 0.1em solid #ccc;
+    box-sizing: border-box;
+  
+}
+
+textarea {
+	height: 5em;
+
+}
+
+.contact-info {
+	margin-top: 5.5em;
+	color: rgba(255,255,255);
+}
+
+input:focus {
+	outline: rgb(56, 129, 25);
+}
+
+button {
+	background-color: rgb(35, 149, 184, 0.6);
+	font-weight: bold;
+	
+}
+
+@media only screen and (max-width: 1060px) {
+	body {
+		background-size: 100%;
+	}
+	
+	.menu-item {
+		padding: 0.5em;
+		margin:0.2em;
+	
+    }
+	
+	.menu,footer {
+		margin: 0 5em;
+	}
+	.columns-container {
+		display: flex;
+		margin: 0em 5em;
+		flex-direction: column;
+		padding: 1em;
+	}
+
+	.column-item {
+		padding: 1em;
+		margin: 0.5em 2em;
+		
+	}
+
+	.special {
+		padding: 1em;
+		-webkit-clip-path: polygon(0% 0%,100% 0%, 100% 50%, 50% 100%, 0% 50%);
+		clip-path: polygon(0% 0%, 100% 0%, 100% 50%, 50% 100%, 0% 50%);
+		height:10em;
+	}
+	
+	
+	.special-text {
+		text-align: center;
+	
+	}
+	
+	.special-img {
+		visibility: hidden;
+	}
+	
+	.text {
+		padding: 2em;
+	}
+	
+	.slogan {
+		margin-left: 0;
+	
+	}
+	.logo {
+		max-width: 3em;
+		max-height: 3em;
+	}
+	
+	table {
+		display: block;
+		overflow: scroll;
+	}
+	
+	.contact-info {
+		margin-top: 0em;
+	}
+	
+	
+}
+
+@media only screen and (max-width: 600px) {
+	body {
+		background-size: 100%;
+	}
+	
+	header {
+		font-size: 0.6em;
+	}
+	
+	h2, h3 {
+		font-size: 1em;
+	}
+
+	.menu-container {
+		padding-right: 2em;
+	}
+	
+	.menu-item {
+		padding: 0.5em;
+		margin: 0.2em;
+		font-size: 0.7em;
+	
+    }
+	
+	.menu,footer {
+		margin: 0 0.5em;
+	}
+	
+	.columns-container {
+		margin: 0.2em;
+		flex-direction: column;
+		padding: 0.5em;
+	
+	}
+
+	.column-item {
+		padding: 0.5em;
+		margin:0.2em 0em;
+	}
+	
+	.text {
+		font-size: 0.8em;
+	}
+
+	.special {
+		-webkit-clip-path: polygon(0% 0%,100% 0%, 100% 50%, 50% 100%, 0% 50%);
+		clip-path: polygon(0% 0%, 100% 0%, 100% 50%, 50% 100%, 0% 50%);
+		height: 7em;
+	}
+
+	
+	form > input, textarea, button {
+		margin: 0.5em 0;
+		width: 100%;
+		height: 2.5em;
+	}
+	
+}
