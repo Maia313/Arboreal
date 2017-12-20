@@ -236,7 +236,6 @@ button {
 		padding: 1em;
 		-webkit-clip-path: polygon(0% 0%,100% 0%, 100% 50%, 50% 100%, 0% 50%);
 		clip-path: polygon(0% 0%, 100% 0%, 100% 50%, 50% 100%, 0% 50%);
-		height:50%;
 		text-align: center;
 	}
 	
@@ -323,7 +322,6 @@ button {
 		-webkit-clip-path: polygon(0% 0%,100% 0%, 100% 50%, 50% 100%, 0% 50%);
 		clip-path: polygon(0% 0%, 100% 0%, 100% 50%, 50% 100%, 0% 50%);
 		text-align: center;
-		height:50%;
 	}
 
 	
