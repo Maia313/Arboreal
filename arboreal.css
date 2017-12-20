@@ -321,7 +321,8 @@ button {
 	.special {
 		-webkit-clip-path: polygon(0% 0%,100% 0%, 100% 50%, 50% 100%, 0% 50%);
 		clip-path: polygon(0% 0%, 100% 0%, 100% 50%, 50% 100%, 0% 50%);
-		height: 7em;
+		height: 10em;
+		text-align: center;
 	}
 
 	
