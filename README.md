@@ -77,7 +77,7 @@ och sen med klasser. Men jag tror att det inte viktig.
 
        // De synpunkter som har att göra med indenteringen har jag valt att bortse ifrån eftersom koden är korrekt indenterad.     Jag har upptäckt att indenteringen ändras i olika kodläsare.
 
-       De kommentarer som berör design har jag läst, dock har valt att inte ändra någonnting eftersom det anges inga bra motiveringar till varför det skulle vara bra att göra några ändringar.
+       De kommentarer som berör design har jag läst, dock har valt att inte ändra någonting eftersom det anges inga bra motiveringar till varför det skulle vara bra att göra några ändringar.
 
        Har också valt att inte strukturera min CSS-kod i alfabetisk ordning eftersom jag tycker att detta är ingen bra ide.
 
