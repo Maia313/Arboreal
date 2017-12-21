@@ -13,6 +13,8 @@ Indenteringen ser kanske lite annorlunda ut här på Github därför är det bra
 
 
 
+
+
 // Feedback från Angel
 
 Farger ser ut okej, koden är väl skrivit men liten problem med strukturen på några delar.
@@ -67,7 +69,10 @@ och sen med klasser. Men jag tror att det inte viktig.
 
 
 
-// De synpunkter som har att göra med indenteringen har jag valt att bortse ifrån eftersom koden är korrekt indenterad. Jag har upptäckt att indenteringen ändras i olika kodläsare.
+
+
+
+// De synpunkter som har att göra med indenteringen har jag valt att bortse ifrån eftersom koden är korrekt indenterad. Jag har       upptäckt att indenteringen ändras i olika kodläsare.
 
 De kommentarer som berör design har jag läst, dock har valt att inte ändra någonnting eftersom det anges inga bra motiveringar till varför det skulle vara bra att göra några ändringar.
 
@@ -80,9 +85,13 @@ Det finns dock några ändringar som jag har gjort. Dessa är följande:
 + Har gjort sidan responsiv genom att lägga till breakpoints för 1060px, och 600px. Dessa valdes eftersom texten hamnar annars konstigt i tillhörande flexboxar.
 
 *Du uppfyller alla krav från Individuell examination 1. // Ja
+
 *Du har implementerat egna media queries så att din hemsida anpassar sig för mobil, tablet samt desktop. // Ja
+
 *Du väljer själv vilka breakpoints du använder dig utav. I din README.md som ska ligga i projektet ska du motivera valet av breakpoints, vad var det som gjorde att du valde precis det värdet för att ändra strukturen på sidan?  // Har motiverat-se ovan
+
 *Du beskriver också vilket responsivt mönster du har utgått ifrån och varför det var ett bra val för sidan. This is responsive: patterns. // Mönstret som jag använder är Column drop, eftersom desktop versionen är strukturerat i columner.
+
 *Du har förbättrat din hemsida utifrån den feedback du fick från föregående inlämning samt skrivit ner vad du har ändrat för att möta denna feedback alternativt motiverat varför du inte har ändrat utefter återkopplingen du fick. Denna reflektion skrivs ner i din README.md. // Se ovan
 
 
