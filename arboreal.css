@@ -87,11 +87,6 @@ header,footer,
     text-align: center;
 }
 
-img {
-	margin-top: 2em;
-    width: 75%;
-   
-}
 
 .aloha {
 	background-image: url("aloha.jpg");
@@ -166,10 +161,6 @@ th {
 td {
 	color: rgba(255,255,255);
 	background-color: rgba(255,255,255, 0.4);;
-}
-
-.contact {
-	color: rgba(255,255,255);
 }
 
 
