@@ -1,5 +1,5 @@
-# FirstWebpage
-Arboreal
+      # FirstWebpage
+        Arboreal
 
 Bestående av 4 sidor, där jag har valt att ha Home and Themes på samma sida.
 Webbplatsen har en column layout
@@ -18,7 +18,7 @@ Indenteringen ser kanske lite annorlunda ut här på Github därför är det bra
 
 
 
-// Feedback från Angel
+      // Feedback från Angel
 
 Farger ser ut okej, koden är väl skrivit men liten problem med strukturen på några delar.
 Webbsidan fungerar bra och effekten på nav ser ut snygg. Contact och Pricing sidor ser ut
@@ -67,7 +67,7 @@ bra och ren.
 samma med den "A" bredvid Contact Us och på footer
 CSS:
 Kanske det är personlig men jag skulle ordna items alfabetisk och skulle börja med taggar 
-och sen med klasser. Men jag tror att det inte viktig.              
+och sen med klasser. Men jag tror att det inte viktig.
 
 
 
@@ -80,9 +80,9 @@ och sen med klasser. Men jag tror att det inte viktig.
 
 
 
+        #Uppdatering
 
-
-// De synpunkter som har att göra med indenteringen har jag valt att bortse ifrån eftersom koden är korrekt indenterad. Jag har upptäckt att indenteringen ändras i olika kodläsare.
+       // De synpunkter som har att göra med indenteringen har jag valt att bortse ifrån eftersom koden är korrekt indenterad. Jag har upptäckt att indenteringen ändras i olika kodläsare.
 
 De kommentarer som berör design har jag läst, dock har valt att inte ändra någonnting eftersom det anges inga bra motiveringar till varför det skulle vara bra att göra några ändringar.
 
