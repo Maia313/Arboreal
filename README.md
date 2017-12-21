@@ -27,7 +27,7 @@ L46: </article> sama som L41
 Om du skulle estrukturera bättre koden, det skulle vara liten lättare att läsa. Med dem 
 items som går inne. exampel:
 <header>
-    <h1><img class="logo" src="black.png" alt="Logo">RBOREAL - plants for the office environment </h1>
+    <h1><img class="logo" src="blak.png" alt="Logo">RBOREAL - plants for the office environment </h1>
     <div class="slogan">
         <blockquote>
             <em>- A workplace that is alive creates ideas that live on.</em>
