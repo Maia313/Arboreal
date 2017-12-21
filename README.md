@@ -31,14 +31,7 @@ L41: </p> skulle snyggare på samma nivå som den <p>
 L46: </article> sama som L41
 Om du skulle estrukturera bättre koden, det skulle vara liten lättare att läsa. Med dem 
 items som går inne. exampel:
-<header>
-    <h1><img class="logo" src="blak.png" alt="Logo">RBOREAL - plants for the office environment </h1>
-    <div class="slogan">
-        <blockquote>
-            <em>- A workplace that is alive creates ideas that live on.</em>
-        </blockquote>
-    </div>
-</header>
+i <header>
 Jag vet inte om det är min kodläsare eller om du har inte strukturerat koden på en lätt sätt
 Annars koden ser ut som var bra skrivit. 
 Design:
