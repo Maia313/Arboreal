@@ -67,7 +67,7 @@ bra och ren.
 samma med den "A" bredvid Contact Us och på footer
 CSS:
 Kanske det är personlig men jag skulle ordna items alfabetisk och skulle börja med taggar 
-och sen med klasser. Men jag tror att det inte viktig.
+och sen med klasser. Men jag tror att det inte viktig.              
 
 
 
