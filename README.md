@@ -15,6 +15,9 @@ Indenteringen ser kanske lite annorlunda ut här på Github därför är det bra
 
 
 
+
+
+
 // Feedback från Angel
 
 Farger ser ut okej, koden är väl skrivit men liten problem med strukturen på några delar.
@@ -65,6 +68,9 @@ samma med den "A" bredvid Contact Us och på footer
 CSS:
 Kanske det är personlig men jag skulle ordna items alfabetisk och skulle börja med taggar 
 och sen med klasser. Men jag tror att det inte viktig.
+
+
+
 
 
 
