@@ -30,7 +30,7 @@ body {
 
 }
 
-.menu,footer {
+.menu, footer {
     margin: 0 10em;
 }
 
@@ -196,11 +196,6 @@ button {
 	
 }
 
-button:hover {
-   background: rgba(255, 255, 255, 0.5);
-
-}
-
 @media only screen and (max-width: 1060px) {
 	body {
 		background-size: 100%;
@@ -272,7 +267,7 @@ button:hover {
 	}
 	
 	.adress {
-		font-size: 1em;
+		font-size: 0.7em;
 	}
 	
 	
