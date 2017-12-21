@@ -58,13 +58,13 @@ body {
 }
 
 .special {
-	background-color: rgb(46, 163, 138, 0.7);
+    background-color: rgb(46, 163, 138, 0.7);
     align-self: auto;
     padding: 2em;
-	margin: 5em;
-	-webkit-clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
-	clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
-	color: rgba(255,255,255);
+    margin: 5em;
+    -webkit-clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+    clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+    color: rgba(255,255,255);
 }
 
 .slogan {
@@ -78,8 +78,8 @@ h1:first-child {
 }
 
 h3 {
-	background-color:rgb(235, 249, 224, 0.9);
-	padding-left: 1em;
+    background-color:rgb(235, 249, 224, 0.9);
+    padding-left: 1em;
 }
 	
 header,footer,
@@ -89,57 +89,57 @@ header,footer,
 
 
 .aloha {
-	background-image: url("aloha.jpg");
-	background-size: 100%;
+    background-image: url("aloha.jpg");
+    background-size: 100%;
 	
 }
 
 .siberia {
-	background-image: url("siberia.jpg");
-	background-size: 100%;
+    background-image: url("siberia.jpg");
+    background-size: 100%;
 	
 }
 
 .nordic {
-	background-image: url("nordic.jpg");
-	background-size: 100%;
+    background-image: url("nordic.jpg");
+    background-size: 100%;
 
 }
 
 .about, .contact {
-	background-color: rgb(35, 149, 104, 0.7);
+    background-color: rgb(35, 149, 104, 0.7);
 	
 	
 }
 .details{
-	color: rgb(0, 0, 0);
+   color: rgb(0, 0, 0);
 }
 
 .text {
-	padding: 1.3em;
-	background: rgba(255, 255, 255, 0.9);
-	text-align: justify;
-	text-indent: 1.3em;
+   padding: 1.3em;
+   background: rgba(255, 255, 255, 0.9);
+   text-align: justify;
+   text-indent: 1.3em;
 }
 
 .logo {
-	max-width: 5em;
-	max-height: 5em;
-	width: auto;
-	height: auto;
+   max-width: 5em;
+   max-height: 5em;
+   width: auto;
+   height: auto;
 }
 
 .logoArboreal {
-	max-width: 1em;
-	max-height: 1em;
-	width: auto;
-	height: auto;
+   max-width: 1em;
+   max-height: 1em;
+   width: auto;
+   height: auto;
 }
 
 footer {
-	background: rgba(46, 163, 138, 0.6);
-	border-radius: 0.5em;
-	height: 1em;
+   background: rgba(46, 163, 138, 0.6);
+   border-radius: 0.5em;
+   height: 1em;
 
 }
 
@@ -159,17 +159,17 @@ th {
 }
 
 td {
-	color: rgba(255,255,255);
-	background-color: rgba(255,255,255, 0.4);;
+    color: rgba(255,255,255);
+    background-color: rgba(255,255,255, 0.4);;
 }
 
 
 form > input, textarea, button {
-	margin: 1em 0;
-	width: 100%;
-	height: 3em;
-	border-radius: 0.5em;
-	padding: 0.5em;
+    margin: 1em 0;
+    width: 100%;
+    height: 3em;
+    border-radius: 0.5em;
+    padding: 0.5em;
     display: inline-block;
     border: 0.1em solid #ccc;
     box-sizing: border-box;
@@ -177,22 +177,22 @@ form > input, textarea, button {
 }
 
 textarea {
-	height: 5em;
+   height: 5em;
 
 }
 
 .contact-info {
-	margin-top: 5.5em;
-	color: rgba(255,255,255);
+   margin-top: 5.5em;
+   color: rgba(255,255,255);
 }
 
 input:focus {
-	outline: rgb(56, 129, 25);
+   outline: rgb(56, 129, 25);
 }
 
 button {
-	background-color: rgb(35, 149, 184, 0.6);
-	font-weight: bold;
+   background-color: rgb(35, 149, 184, 0.6);
+   font-weight: bold;
 	
 }
 
@@ -264,6 +264,10 @@ button {
 	
 	h2, p {
 		text-align: center;
+	}
+	
+	p {
+		font-size: 0.5em;
 	}
 	
 	
