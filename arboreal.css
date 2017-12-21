@@ -205,7 +205,7 @@ button {
 		padding: 0.5em;
 		margin:0.2em;
 	
-    }
+        }
 	
 	.menu,footer {
 		margin: 0 5em;
@@ -262,6 +262,10 @@ button {
 		margin-top: 0em;
 	}
 	
+	h2 {
+		text-align: center;
+	}
+	
 	
 }
 
@@ -285,9 +289,9 @@ button {
 	.menu-item {
 		padding: 0.5em;
 		margin: 0.2em;
-		font-size: 0.7em;
+		font-size: 0.9em;
 	
-    }
+    	}
 	
 	.menu,footer {
 		margin: 0 0.5em;
