@@ -49,7 +49,7 @@ footer {
     display: flex;
     overflow: hidden;
     margin: 0.8em 10em 0em 10em;
-    background: rgba(5, 5, 5, 0.4);
+    background: rgba(5, 5, 5, 0.7);
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
         -ms-flex-direction: row;
