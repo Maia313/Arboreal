@@ -1,17 +1,27 @@
+/* Put your CSS code in the left column, instead of example, to put or remove unnecessary prefixes. */
+
 body {
-    align-items: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
     font-family: "Calibri";
     background-image: url("office3.jpg");
     background-size: 100%;
 }
 
 .menu-container {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
     overflow: hidden;
     background: rgba(46, 163, 138, 0.6);
-    align-items: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
     list-style-type: none;
-    justify-content: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
     border-radius: 0.5em;
     height: 2em;
 }
@@ -35,18 +45,30 @@ body {
 }
 
 .columns-container {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
     overflow: hidden;
     margin: 0.8em 10em 0em 10em; 
     background: rgba(0, 0, 5, 0.7);
-    flex-direction: row;
-    justify-content: center;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
     border-radius: 0.5em;
 }
 
 .column {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    flex-direction: column;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
 	
 }
 
@@ -54,12 +76,15 @@ body {
     padding: 1em;
     margin: 1em;
     border-radius: 0.5em;
-    flex: 0 1 auto;
+    -webkit-box-flex: 0;
+        -ms-flex: 0 1 auto;
+            flex: 0 1 auto;
 }
 
 .special {
     background-color: rgb(46, 163, 138, 0.7);
-    align-self: auto;
+    -ms-flex-item-align: auto;
+        align-self: auto;
     padding: 2em;
     margin: 5em;
     -webkit-clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
@@ -172,7 +197,8 @@ form > input, textarea, button {
     padding: 0.5em;
     display: inline-block;
     border: 0.1em solid #ccc;
-    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
   
 }
 
@@ -211,9 +237,14 @@ button {
 		margin: 0 5em;
 	}
 	.columns-container {
+		display: -webkit-box;
+		display: -ms-flexbox;
 		display: flex;
 		margin: 0em 5em;
-		flex-direction: column;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
 		padding: 1em;
 	}
 
@@ -304,7 +335,10 @@ button {
 	
 	.columns-container {
 		margin: 0.2em;
-		flex-direction: column;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
 		padding: 0.5em;
 	
 	}
