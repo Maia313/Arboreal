@@ -1,4 +1,4 @@
-      # FirstWebpage
+   # FirstWebpage
         Arboreal
 
        Bestående av 4 sidor, där jag har valt att ha Home and Themes på samma sida.
@@ -18,7 +18,7 @@
 
 
 
-        #Uppdatering
+  # Uppdatering
 
   // De synpunkter som har att göra med indenteringen har jag valt att bortse ifrån eftersom koden är korrekt indenterad.     Jag har upptäckt att indenteringen ändras i olika kodläsare.
 
