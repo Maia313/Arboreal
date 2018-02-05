@@ -20,14 +20,14 @@
 
         #Uppdatering
 
-       // De synpunkter som har att göra med indenteringen har jag valt att bortse ifrån eftersom koden är korrekt indenterad.     Jag har upptäckt att indenteringen ändras i olika kodläsare.
+  // De synpunkter som har att göra med indenteringen har jag valt att bortse ifrån eftersom koden är korrekt indenterad.     Jag har upptäckt att indenteringen ändras i olika kodläsare.
 
-       De kommentarer som berör design har jag läst, dock har valt att inte ändra någonting eftersom det anges inga bra motiveringar till varför det skulle vara bra att göra några ändringar.
+  De kommentarer som berör design har jag läst, dock har valt att inte ändra någonting eftersom det anges inga bra motiveringar till varför det skulle vara bra att göra några ändringar.
 
-       Har också valt att inte strukturera min CSS-kod i alfabetisk ordning eftersom jag tycker att detta är ingen bra ide.
+  Har också valt att inte strukturera min CSS-kod i alfabetisk ordning eftersom jag tycker att detta är ingen bra ide.
 
 
-       Det finns dock några ändringar som jag har gjort. Dessa är följande:
+  Det finns dock några ändringar som jag har gjort. Dessa är följande:
 
        + Har ökat färgkontrasten på min sida, genom att ta bort opacity på vissa färger och öka intensiteten på de andra. Detta pga jag tycker att när skärmen blir mindre så är det bättre när kontrasten ökas.
        + Har gjort sidan responsiv genom att lägga till breakpoints för 1060px, och 600px. Dessa valdes eftersom texten hamnar annars konstigt i tillhörande flexboxar.
