@@ -8,20 +8,12 @@
    * Både HTML- och Css- koden är validerade. Jag har lagt till opacity på färger, 
    jag använder även en polygon,vilket CSS    validator klagar på(det har jag valt att bortse ifrån). 
 
-
-
-
-
-
-
-
-
-
-
-
+-------
   ### Uppdatering
 
-  // De synpunkter som har att göra med indenteringen har jag valt att bortse ifrån eftersom koden är korrekt indenterad.     Jag har upptäckt att indenteringen ändras i olika kodläsare.
+  De synpunkter som har att göra med indenteringen har jag valt att bortse ifrån eftersom koden är korrekt indenterad.     
+  
+  Jag har upptäckt att indenteringen ändras i olika kodläsare.
 
   De kommentarer som berör design har jag läst, dock har valt att inte ändra någonting eftersom det anges inga bra 
   motiveringar till varför det skulle vara bra att göra några ändringar.
