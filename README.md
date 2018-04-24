@@ -11,7 +11,7 @@
 -------
   ### Uppdatering
 
-  De synpunkter som har att göra med indenteringen har jag valt att bortse ifrån eftersom koden är korrekt indenterad.     
+  <em>De synpunkter som har att göra med indenteringen har jag valt att bortse ifrån eftersom koden är korrekt indenterad.<em>     
   
   Jag har upptäckt att indenteringen ändras i olika kodläsare.
 
