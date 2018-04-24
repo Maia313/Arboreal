@@ -26,21 +26,21 @@
   * Har ökat färgkontrasten på min sida, genom att ta bort opacity på vissa färger och öka intensiteten på de andra. Detta pga jag tycker att när skärmen blir mindre så är det bättre när kontrasten ökas.
   * Har gjort sidan responsiv genom att lägga till breakpoints för 1060px, och 600px. Dessa valdes eftersom texten hamnar annars konstigt i tillhörande flexboxar.
 
-  * Du uppfyller alla krav från Individuell examination 1. 
+  **Du uppfyller alla krav från Individuell examination 1.** 
   > Ja
 
-  * Du har implementerat egna media queries så att din hemsida anpassar sig för mobil, tablet samt desktop.
+  **Du har implementerat egna media queries så att din hemsida anpassar sig för mobil, tablet samt desktop.**
   > Ja
 
-  * Du väljer själv vilka breakpoints du använder dig utav. I din README.md som ska ligga i projektet ska 
-  du motivera valet av breakpoints, vad var det som gjorde att du valde precis det värdet för att ändra strukturen på sidan?  
+  **Du väljer själv vilka breakpoints du använder dig utav. I din README.md som ska ligga i projektet ska 
+  du motivera valet av breakpoints, vad var det som gjorde att du valde precis det värdet för att ändra strukturen på sidan?**  
   > Har motiverat-se ovan
 
-  * Du beskriver också vilket responsivt mönster du har utgått ifrån och varför det var ett bra val för sidan. This is responsive: patterns.
+  **Du beskriver också vilket responsivt mönster du har utgått ifrån och varför det var ett bra val för sidan. This is responsive: patterns.**
   > Mönstret som jag använder är Column drop, eftersom desktop versionen är strukturerat i columner.
 
-  * Du har förbättrat din hemsida utifrån den feedback du fick från föregående inlämning samt skrivit ner vad du har 
-  ändrat för att möta denna feedback alternativt motiverat varför du inte har ändrat utefter återkopplingen du fick. Denna reflektion skrivs ner i din README.md.
+  **Du har förbättrat din hemsida utifrån den feedback du fick från föregående inlämning samt skrivit ner vad du har 
+  ändrat för att möta denna feedback alternativt motiverat varför du inte har ändrat utefter återkopplingen du fick. Denna reflektion skrivs ner i din README.md.**
   > Se ovan
 
 
