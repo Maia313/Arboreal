@@ -1,5 +1,5 @@
   ### Arboreal
-  [You can have a look here...](https://maia313.github.io/Arboreal/ 'Click to see the livepage')
+  [You can have a look here...](https://maia313.github.io/Arboreal/ 'Click to see the page live')
 
    * Bestående av 4 sidor, där jag har valt att ha Home and Themes på samma sida.
    * Webbplatsen har en column layout
